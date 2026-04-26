@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=0&repeat=false&color=36BCF7&lines=Welcome+,+I'm+Dmitry)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=0&repeat=false&color=36BCF7&lines=Welcome+,+I'm+Dmitry)](https://git.io/typing-svg)
 - 🌱 I’m currently learning Cpp, CMake, Java, Git, Machine learning, 3D modeling
 - ⚡ Fun fact: I can break the program and create a curved cube in one session.
 <!--
