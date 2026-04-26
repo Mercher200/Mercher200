@@ -1,6 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=0&repeat=false&color=36BCF7&lines=Welcome+,+I'm+Dmitry)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=0&repeat=false&color=36BCF7&lines=-+🌱+Learning:+Cpp,+CMake,+Java,+Git,+ML,+3D)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=0&repeat=false&color=36BCF7&lines=-+⚡+Fun+fact:+I+can+break+a+program+and+create+a+curved+cube)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=6000&pause=0&repeat=false&color=36BCF7&lines=Welcome+,+I'm+Dmitry;-+Learning:+Cpp,+CMake,+Java,+Git,+ML,+3D;-+Fun+fact:+I+can+break+a+program+and+create+a+curved+cube)](https://git.io/typing-svg)
 <!--
 **Mercher200/Mercher200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
