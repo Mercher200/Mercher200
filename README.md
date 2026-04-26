@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+,+I'm+[Dmitry]([https://daniilshat.ru](https://github.com/Mercher200))+👋)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+,+I'm+Dmitry+👋)](https://git.io/typing-svg) 
 ### 
 <!--
 **Mercher200/Mercher200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
