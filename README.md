@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=0&repeat=false&color=36BCF7&lines=Welcome+,+I'm+Dmitry+Mercher)](https://git.io/typing-svg)
- I am currently using and teaching:
+- I am currently using and teaching:
  <br>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
