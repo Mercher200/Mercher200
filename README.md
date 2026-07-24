@@ -1,17 +1,31 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=0&repeat=false&color=36BCF7&lines=Welcome+,+I'm+Dmitry+Mercher)](https://git.io/typing-svg)
-- I am currently using and teaching:
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java (Mobile)" alt="Java Mobile" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Machine Learning" alt="Machine Learning" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="3D Modeling" alt="3D Modeling" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+<!-- 🚀 Мой стек -->
+<h4 align="left">🚀 Currently using & teaching:</h4>
+
+<div align="left">
+  <b>Languages:</b>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="36" height="36"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="36" height="36"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="36" height="36"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java (Mobile)" alt="Java Mobile" width="36" height="36"/>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Tools:</b>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="36" height="36"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="36" height="36"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="36" height="36"/>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Extras:</b>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Machine Learning" alt="ML" width="36" height="36"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="3D Modeling" alt="Blender" width="36" height="36"/>
 </div>
-- Fun fact: I can break the program and create a curved cube in one session.
+
+<br/>
+
+<details>
+  <summary><b>😄 Fun fact</b></summary>
+  <i>I can break the program and create a curved cube in one session.</i>
+</details>
+
 <!--
 **Mercher200/Mercher200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
