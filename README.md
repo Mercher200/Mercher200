@@ -1,6 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=0&repeat=false&color=36BCF7&lines=Welcome+,+I'm+Dmitry+Mercher)](https://git.io/typing-svg)
 
-###- I am currently using and teaching:
+### - I am currently using and teaching:
+    
     <div align="Center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -12,7 +13,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="3D Modeling" alt="3D Modeling" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
     </div>
-###- Fun fact: I can break the program and create a curved cube in one session.
+    
+### - Fun fact: I can break the program and create a curved cube in one session.
 
 <!--
 **Mercher200/Mercher200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
