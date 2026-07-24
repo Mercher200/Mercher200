@@ -3,7 +3,7 @@
 - I am currently using and teaching:
   
  <br>
- <center>
+ <p align="left">
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="3D Modeling" alt="3D Modeling" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
 </div>
- </center>
+ </p>
  <br>
  
 - Fun fact: I can break the program and create a curved cube in one session.
