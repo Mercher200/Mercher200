@@ -10,7 +10,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Machine Learning" alt="Machine Learning" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="3D Modeling" alt="3D Modeling" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/autocad/autocad-original.svg" title="AutoCAD" alt="AutoCAD" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/fusion360.svg" title="Fusion 360" alt="Fusion 360" width="40" height="40"/>&nbsp;
 </div>
+
 - Fun fact: I can break the program and create a curved cube in one session.
 <!--
 **Mercher200/Mercher200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
