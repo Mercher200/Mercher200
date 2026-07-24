@@ -14,7 +14,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
     </div>  
 
-### - Fun fact: I can break the program and create a curved cube in one session.
+### <t>- Fun fact: I can break the program and create a curved cube in one session.
 
 <!--
 **Mercher200/Mercher200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
